@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_f.jpg.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\drawable-xhdpi\\f.jpg"
+    },
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_m.jpg.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\drawable-xhdpi\\m.jpg"
+    },
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_e.jpg.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\drawable-xhdpi\\e.jpg"
+    },
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_h.jpg.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\drawable-xhdpi\\h.jpg"
+    },
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_c.jpg.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\drawable-xhdpi\\c.jpg"
+    },
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_d.jpg.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\drawable-xhdpi\\d.jpg"
+    },
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_i.jpg.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\drawable-xhdpi\\i.jpg"
+    },
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_j.jpg.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\drawable-xhdpi\\j.jpg"
+    },
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_a.jpg.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\drawable-xhdpi\\a.jpg"
+    },
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_k.jpg.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\drawable-xhdpi\\k.jpg"
+    },
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_b.jpg.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\drawable-xhdpi\\b.jpg"
+    },
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_l.jpg.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\drawable-xhdpi\\l.jpg"
+    },
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_g.jpg.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\drawable-xhdpi\\g.jpg"
+    },
+    {
+        "merged": "E:\\helloWorld\\ShoppingMall\\tBViewer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\helloWorld\\ShoppingMall\\tBViewer\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

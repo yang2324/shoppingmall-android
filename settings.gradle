@@ -1,0 +1,4 @@
+include ':AddSubView'
+include ':app'
+rootProject.name = "ShoppingMall"
+include ':tBViewer'
