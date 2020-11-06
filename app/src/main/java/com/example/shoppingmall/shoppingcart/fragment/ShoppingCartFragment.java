@@ -162,6 +162,7 @@ public class ShoppingCartFragment extends BaseFragment implements View.OnClickLi
         showData();
     }
 
+    
     /**
      * 显示数据
      */
