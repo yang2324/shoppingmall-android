@@ -16,6 +16,7 @@
         android:usesCleartextTraffic="true">
         <activity android:name=".app.GoodsInfoActivity"></activity>
         <activity android:name=".app.MainActivity" />
+        <activity android:name=".app.LoginActivity" />
         <activity android:name=".app.WelcomeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

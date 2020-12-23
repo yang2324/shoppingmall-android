@@ -64,5 +64,12 @@ dependencies {
     //对viewPager美化的库
     compile 'com.zhy:magic-viewpager:1.0.1'
 
+    //自定义滑动插件
+    implementation 'com.flyco.tablayout:FlycoTabLayout_Lib:2.0.2@aar'
+
+    //百分比布局
+    implementation 'androidx.percentlayout:percentlayout:1.0.0'
+
+    compile 'com.squareup.picasso:picasso:2.5.2'
 
 }

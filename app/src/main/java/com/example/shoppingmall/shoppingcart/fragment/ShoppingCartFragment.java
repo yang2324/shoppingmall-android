@@ -162,7 +162,7 @@ public class ShoppingCartFragment extends BaseFragment implements View.OnClickLi
         showData();
     }
 
-    
+
     /**
      * 显示数据
      */
@@ -196,6 +196,5 @@ public class ShoppingCartFragment extends BaseFragment implements View.OnClickLi
         //删除按钮隐藏
         llDelete.setVisibility(View.GONE);
     }
-
 
 }

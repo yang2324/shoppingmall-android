@@ -74,7 +74,7 @@ public class GoodsInfoActivity extends Activity implements View.OnClickListener 
 
     private void setWebViewData(String product_id) {
         if (product_id != null){
-            wbGoodInfoMore.loadUrl("https://m.jd.com/");
+            wbGoodInfoMore.loadUrl("https://guangdong.mutuan.com/m/");
             //启用支持 javascript
             WebSettings settings = wbGoodInfoMore.getSettings();
             settings.setJavaScriptEnabled(true);//支持javascript
